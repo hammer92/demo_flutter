@@ -10,6 +10,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+
   HomeBloc bloc;
 
   void _handleNavegatePress(BuildContext context) {
